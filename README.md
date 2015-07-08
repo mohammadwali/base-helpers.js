@@ -1,4 +1,4 @@
 # helpers.js
  
-A bunch of usefull javascript snippets.
+A bunch of useful javascript snippets.
 
