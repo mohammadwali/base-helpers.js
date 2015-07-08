@@ -1,0 +1,22 @@
+{
+  "name": "base-helpers",
+  "main": "./base-helpers.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mohammadwali/base-helpers.js",
+  "authors": [
+    "Mohammad Wali <me@mohammadwali.com>"
+  ],
+  "description": "A bunch of useful javascript snippets",
+  "keywords": [
+    "helpers",
+    "snippets"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
